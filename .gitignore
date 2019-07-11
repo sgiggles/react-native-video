@@ -40,6 +40,7 @@ yarn.lock
 
 # editor workspace settings
 .vscode
+.code-workspace
 
 # BUCK
 buck-out/
